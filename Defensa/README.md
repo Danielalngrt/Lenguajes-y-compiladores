@@ -36,4 +36,4 @@ node problema2/notacionFEN.js
 node problema3/conjeturaDeCollatz.js
 
 ## Explicación
-Puedes ver la defensa técnica aquí: [https://youtu.be/oBlxYzLqvzw]
+Puedes ver la defensa técnica aquí: [(https://youtu.be/oBlxYzLqvzw)]
