@@ -35,6 +35,5 @@ node problema2/notacionFEN.js
 # Para el Problema 3
 node problema3/conjeturaDeCollatz.js
 
-
-## Explicación 
-https://youtu.be/oBlxYzLqvzw
+## Explicación
+Puedes ver la defensa técnica aquí: https://youtu.be/oBlxYzLqvzw
