@@ -25,7 +25,7 @@ El proyecto sigue la estructura de carpetas exigida en la ponderación:
 
 ## Ejecución
 Para ejecutar los scripts, asegúrese de tener instalado **Node.js**.
-```bash
+
 # Para el Problema 1
 node problema1/analisisLexico.js
 
@@ -36,4 +36,4 @@ node problema2/notacionFEN.js
 node problema3/conjeturaDeCollatz.js
 
 ## Explicación
-Puedes ver la defensa técnica aquí: [(https://youtu.be/oBlxYzLqvzw)]
+Puedes ver la defensa técnica aquí: (https://youtu.be/oBlxYzLqvzw)
